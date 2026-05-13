@@ -3,6 +3,6 @@
 [![Scholar Badge](https://img.shields.io/badge/-Scholar-4285F4?style=for-the-badge&labelColor=4285F4&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=yMGBji4AAAAJ&hl=en&oi=sra)](https://scholar.google.com/citations?user=yMGBji4AAAAJ&hl=en) 
 
 <p align="center">
-Hi there 🤗 I am Cong - a Research Scientist @<code><a href="https://deepmind.google/">Google DeepMind</a></code>.<br>
-I work on Open-Endedness and AI for Scientific Discovery!
+Hi there 🤗 I am Cong - a Founding Member @<code><a href="https://recursive.com/">Recursive</a></code>.<br>
+I work on open-ended self-improving AI systems that can perform research on themselves!
 </p>
